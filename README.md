@@ -31,7 +31,7 @@ This dataset connects Olympic years to host cities, with latitude and longitude 
 - From 1970s onwards, women’s participation grew rapidly.
 - By 2016, the male vs. female participation gap had narrowed significantly.
 
-## 3.	Medals Over Time
+### 3.	Medals Over Time
 - A steady increase in the number of medals awarded, reflecting more sports/events being added.
 - Significant jumps in 1980s–2000s as new disciplines (e.g., women’s events, team sports) were introduced.
 

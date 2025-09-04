@@ -17,28 +17,28 @@
 This dataset gives a detailed view of athletes (age, height, weight, gender, country) and their performance (sports, events, medals).
 
 ### City Locations (Host Cities)
-	Total Olympic Events Recorded: 29
-	Unique Host Cities: 23
-	Year Range: 1896 → 2016
+- Total Olympic Events Recorded: 29
+- Unique Host Cities: 23
+- Year Range: 1896 → 2016
 This dataset connects Olympic years to host cities, with latitude and longitude info for mapping.
 
 ### 1.	Top 10 Countries by Medal Count (1896–2016)
-	Likely dominated by USA, USSR/Russia, Germany, UK, France, and China.
-	Shows long-term consistency of traditional sports powerhouses.
+- Likely dominated by USA, USSR/Russia, Germany, UK, France, and China.
+- Shows long-term consistency of traditional sports powerhouses.
 
 ### 2.	Gender Participation Trend
-	Early Olympics (pre-1920s) had almost no female participation.
-	From 1970s onwards, women’s participation grew rapidly.
-	By 2016, the male vs. female participation gap had narrowed significantly.
+- Early Olympics (pre-1920s) had almost no female participation.
+- From 1970s onwards, women’s participation grew rapidly.
+- By 2016, the male vs. female participation gap had narrowed significantly.
 
 ## 3.	Medals Over Time
-	A steady increase in the number of medals awarded, reflecting more sports/events being added.
-	Significant jumps in 1980s–2000s as new disciplines (e.g., women’s events, team sports) were introduced.
+- A steady increase in the number of medals awarded, reflecting more sports/events being added.
+- Significant jumps in 1980s–2000s as new disciplines (e.g., women’s events, team sports) were introduced.
 
 ### Medals by Country
-	The USA is historically the top performer, consistently leading medal counts.
-	Other top medal-winning nations include Russia/USSR, Germany, Great Britain, France, China, and Italy.
-	Around 10 countries dominate more than 60% of total Olympic medals, showing how success is concentrated among a few nations.
+- The USA is historically the top performer, consistently leading medal counts.
+- Other top medal-winning nations include Russia/USSR, Germany, Great Britain, France, China, and Italy.
+- Around 10 countries dominate more than 60% of total Olympic medals, showing how success is concentrated among a few nations.
 
 ### Gender Participation Trends
 	1896–1900: Almost no women athletes.

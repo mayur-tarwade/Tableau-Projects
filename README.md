@@ -22,6 +22,8 @@ This dataset gives a detailed view of athletes (age, height, weight, gender, cou
 - Year Range: 1896 → 2016
 This dataset connects Olympic years to host cities, with latitude and longitude info for mapping.
 
+## Insights from Dataset
+
 ### 1.	Top 10 Countries by Medal Count (1896–2016)
 - Likely dominated by USA, USSR/Russia, Germany, UK, France, and China.
 - Shows long-term consistency of traditional sports powerhouses.

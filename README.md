@@ -1,6 +1,27 @@
 # Story of 120 years of Olympics (1896 - 2016)
 ### Dashboard Link - https://public.tableau.com/views/OlympicsStory_17569946991060/Storyof120yearsofOlympics1896-2016?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+
+### Objective of Project – 
+
+Magazine The story of 126 years of Olympics (from 1896 to 2016) it will have three parts or pages as
+
+### Overall (Dashboard-1)
+- Map
+- Medal Tally
+
+### Overall, EDA (Dashboard-2)
+- Number of Athletes Bar chart
+- Number of Countries Bar chart
+- Gender Pie Chart
+- Age Histogram
+- Height and weight scatter plot
+  
+### Country (Dashboard-3)
+- Year wise medal tally
+- Top Athletes
+- Top Sports
+
 ### Olympics Dataset
 - Total Records: 219,085
 

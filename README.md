@@ -2,17 +2,17 @@
 
 
 ### Olympics Dataset
-Total Records: 219,085
+- Total Records: 219,085
 
-Unique Athletes: 115,359
+- Unique Athletes: 115,359
 
-Countries Represented: 205
+- Countries Represented: 205
 
-Sports Covered: 52
+- Sports Covered: 52
 
-Years Covered: 28 Olympic years (1896–2016)
+- Years Covered: 28 Olympic years (1896–2016)
 
-Medal Records: 33,610 athletes/events where medals were awarded
+- Medal Records: 33,610 athletes/events where medals were awarded
 
 This dataset gives a detailed view of athletes (age, height, weight, gender, country) and their performance (sports, events, medals).
 
